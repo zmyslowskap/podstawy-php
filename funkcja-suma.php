@@ -3,7 +3,7 @@
 function suma(){
     $a=5;
     $b=5;
-    echo "wynik: ";
+    echo "wynik:";
     echo $a+$b;
 }
 suma();
