@@ -1,0 +1,8 @@
+dokumentacja templatki do wdrożenia w <i class="fa fa-wordpress
+index.html
+shop.single.html
+shop.html
+contact.html
+assets/class
+assets/js
+assets/img
